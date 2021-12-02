@@ -6,6 +6,7 @@ description of this module
 
 - [Background](#background)
 - [Usage](#usage)
+- [Todo](#todo)
 - [Maintainers](#maintainers)
 - [Contributing](#contributing)
 - [License](#license)
@@ -16,6 +17,10 @@ description of this module
 
 ```
 ```
+
+## Todo
+
+* Visualize any ast/Node. (Maybe it looks like what the command `tree` displays.)
 
 ## Maintainers
 
